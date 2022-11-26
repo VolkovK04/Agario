@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Agario\Agario\bin\Debug\Agario.exe.config
+C:\Users\User\source\repos\Agario\Agario\bin\Debug\Agario.exe
+C:\Users\User\source\repos\Agario\Agario\bin\Debug\Agario.pdb
+C:\Users\User\source\repos\Agario\Agario\obj\Debug\Agario.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Agario\Agario\obj\Debug\Agario.Form1.resources
+C:\Users\User\source\repos\Agario\Agario\obj\Debug\Agario.Properties.Resources.resources
+C:\Users\User\source\repos\Agario\Agario\obj\Debug\Agario.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Agario\Agario\obj\Debug\Agario.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Agario\Agario\obj\Debug\Agario.exe
+C:\Users\User\source\repos\Agario\Agario\obj\Debug\Agario.pdb
